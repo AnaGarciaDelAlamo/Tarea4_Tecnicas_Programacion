@@ -239,7 +239,7 @@ Ejemplo de ejecución:
 ## 11. Arte ASCII 2
 Dibujar una de las siguientes formas, según la elección del usuario:
 
-Images/04RI04.png
+
 Ejemplo de ejecución:
 
 ¿tamaño?
@@ -264,7 +264,4 @@ Ejemplo de ejecución:
 
 6 - ajedrezado
 
-2
 
-Images/04RI05.png
-Observe que el número de líneas es igual al número de columnas.
